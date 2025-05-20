@@ -1,0 +1,204 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Wireless Headphones",
+      "brand": "SoundMax",
+      "price": 99,
+      "stock": 50,
+      "category": "audio",
+      "image": "/images/1.png",
+      "description": "Experience high-quality audio with SoundMax Wireless Headphones, designed with advanced noise cancellation and crystal-clear sound. These headphones offer up to 20 hours of battery life and a comfortable, ergonomic design for all-day wear, perfect for music lovers and professionals on the go."
+    },
+    {
+      "id": "2",
+      "name": "Smartphone X Pro",
+      "brand": "TechNova",
+      "price": 899,
+      "stock": 25,
+      "category": "smartphones",
+      "image": "/images/2.png",
+      "description": "The Smartphone X Pro by TechNova features a stunning 6.7-inch AMOLED display, a triple-lens 64MP camera system, and blazing-fast 5G connectivity. With its powerful octa-core processor and sleek, durable design, it’s built for both performance and elegance."
+    },
+    {
+      "id": "3",
+      "name": "4K Ultra HD Monitor",
+      "brand": "ViewSharp",
+      "price": 320,
+      "stock": 15,
+      "category": "monitors",
+      "image": "/images/3.png",
+      "description": "Enjoy crystal-clear visuals and vibrant colors with the ViewSharp 4K Ultra HD Monitor. Perfect for creatives and gamers alike, this 27-inch display offers ultra-high definition, a wide color gamut, and eye-care technology for extended use without strain."
+    },
+    {
+      "id": "4",
+      "name": "Bluetooth Portable Speaker",
+      "brand": "BoomBox",
+      "price": 69,
+      "stock": 100,
+      "category": "audio",
+      "image": "/images/4.png",
+      "description": "BoomBox Bluetooth Portable Speaker delivers powerful, room-filling sound in a compact, waterproof design. With up to 12 hours of playtime, Bluetooth 5.0 support, and a rugged build, it’s ideal for both indoor and outdoor adventures."
+    },
+    {
+      "id": "5",
+      "name": "Smartwatch Active 2",
+      "brand": "TimeFit",
+      "price": 179,
+      "stock": 0,
+      "category": "wearables",
+      "image": "/images/5.png",
+      "description": "Track your health and stay connected with the TimeFit Smartwatch Active 2. This smartwatch features heart rate monitoring, sleep tracking, workout modes, and smartphone notifications in a sleek, waterproof design perfect for fitness enthusiasts and daily wear."
+    },
+    {
+      "id": "6",
+      "name": "Gaming Laptop GX15",
+      "brand": "Vortex",
+      "price": 1350,
+      "stock": 10,
+      "category": "laptops",
+      "image": "/images/6.png",
+      "description": "Power through the most demanding games and tasks with the Vortex GX15 Gaming Laptop. Equipped with an Intel i7 processor, NVIDIA RTX 3060 graphics, and a 144Hz display, it offers a smooth, immersive experience for both gamers and creators."
+    },
+    {
+      "id": "7",
+      "name": "Mirrorless Camera Z10",
+      "brand": "Photonix",
+      "price": 599,
+      "stock": 0,
+      "category": "cameras",
+      "image": "/images/7.png",
+      "description": "Capture stunning photos and videos with the Photonix Z10 Mirrorless Camera. Featuring a 24MP sensor, fast autofocus, and 4K video capabilities, it’s the ideal companion for photographers seeking high performance in a compact form factor."
+    },
+    {
+      "id": "8",
+      "name": "Ergonomic Wireless Mouse",
+      "brand": "ClickZen",
+      "price": 25,
+      "stock": 75,
+      "category": "accessories",
+      "image": "/images/8.png",
+      "description": "ClickZen Ergonomic Wireless Mouse combines comfort and precision for long hours of productivity. With adjustable DPI settings, long-lasting battery, and a sleek contour fit, it’s perfect for both office work and casual use."
+    },
+    {
+      "id": "9",
+      "name": "RGB Mechanical Keyboard",
+      "brand": "KeyGlow",
+      "price": 85,
+      "stock": 30,
+      "category": "accessories",
+      "image": "/images/9.png",
+      "description": "Enjoy a tactile and responsive typing experience with KeyGlow’s RGB Mechanical Keyboard. It features customizable lighting, durable switches, and a modern aesthetic—perfect for gamers, coders, and anyone who values precision input."
+    },
+    {
+      "id": "10",
+      "name": "Tablet S10 Lite",
+      "brand": "TabCore",
+      "price": 299,
+      "stock": 35,
+      "category": "tablets",
+      "image": "/images/10.png",
+      "description": "The TabCore S10 Lite is a sleek, lightweight tablet with a 10.5-inch display, perfect for streaming, reading, and multitasking. With a long-lasting battery, fast performance, and Android OS, it’s ideal for both productivity and play."
+    },
+    {
+      "id": "11",
+      "name": "Smart TV 50 Inch",
+      "brand": "VisionPlus",
+      "price": 679,
+      "stock": 18,
+      "category": "televisions",
+      "image": "/images/1.png",
+      "description": "Elevate your home entertainment with the VisionPlus 50-Inch Smart TV, featuring a crisp 4K display, HDR support, and built-in streaming apps. Enjoy lifelike visuals and immersive audio with a sleek, modern design that fits any living room setup."
+    },
+    {
+      "id": "12",
+      "name": "Fitness Tracker Band 5",
+      "brand": "WellTrack",
+      "price": 55,
+      "stock": 80,
+      "category": "wearables",
+      "image": "/images/2.png",
+      "description": "Stay on top of your fitness goals with the WellTrack Band 5, a lightweight and waterproof tracker that monitors steps, sleep, heart rate, and more. With long battery life and app sync capabilities, it’s the perfect everyday health companion."
+    },
+    {
+      "id": "13",
+      "name": "WiFi Home Camera",
+      "brand": "SafeCam",
+      "price": 129,
+      "stock": 22,
+      "category": "security",
+      "image": "/images/3.png",
+      "description": "Keep your home secure with SafeCam’s WiFi Home Camera, offering 1080p video, night vision, and motion detection. Control and monitor live feeds remotely through your smartphone for peace of mind, anytime and anywhere."
+    },
+    {
+      "id": "14",
+      "name": "Portable SSD 1TB",
+      "brand": "DataGo",
+      "price": 139,
+      "stock": 45,
+      "category": "storage",
+      "image": "/images/4.png",
+      "description": "Transfer and back up your data effortlessly with the 1TB Portable SSD from DataGo. Built for speed and durability, it features USB-C connectivity, fast read/write speeds, and a shock-resistant design ideal for mobile professionals."
+    },
+    {
+      "id": "15",
+      "name": "Noise Cancelling Earbuds",
+      "brand": "Silencio",
+      "price": 129,
+      "stock": 55,
+      "category": "audio",
+      "image": "/images/5.png",
+      "description": "Silencio Earbuds offer immersive sound and superior noise cancellation in a compact, wireless design. With touch controls, all-day battery life, and a secure fit, these earbuds are the ultimate choice for music lovers and commuters."
+    },
+    {
+      "id": "16",
+      "name": "Power Bank 20000mAh",
+      "brand": "VoltPro",
+      "price": 45,
+      "stock": 90,
+      "category": "accessories",
+      "image": "/images/6.png",
+      "description": "VoltPro’s 20000mAh Power Bank keeps your devices charged on the go with fast charging support and dual USB outputs. Its compact, travel-ready design ensures reliable power wherever you need it."
+    },
+    {
+      "id": "17",
+      "name": "Webcam HD 1080p",
+      "brand": "CamView",
+      "price": 65,
+      "stock": 50,
+      "category": "accessories",
+      "image": "/images/7.png",
+      "description": "CamView’s HD 1080p Webcam delivers crystal-clear video and crisp audio with built-in noise-reducing microphone, perfect for remote meetings, streaming, or video chats with friends and family."
+    },
+    {
+      "id": "18",
+      "name": "Smart Light Bulb",
+      "brand": "BrightTech",
+      "price": 19,
+      "stock": 120,
+      "category": "smart-home",
+      "image": "/images/8.png",
+      "description": "BrightTech’s Smart Light Bulb brings customizable lighting to your home with app and voice control. Choose from millions of colors, set schedules, and adjust brightness for any occasion—all from your phone."
+    },
+    {
+      "id": "19",
+      "name": "Gaming Controller",
+      "brand": "PlayEdge",
+      "price": 59,
+      "stock": 30,
+      "category": "gaming",
+      "image": "/images/9.png",
+      "description": "Dominate your game with the PlayEdge Gaming Controller, featuring responsive analog sticks, vibration feedback, and wireless connectivity. Compatible with multiple platforms for a seamless gaming experience."
+    },
+    {
+      "id": "20",
+      "name": "Laptop Cooling Pad",
+      "brand": "CoolBase",
+      "price": 32,
+      "stock": 63,
+      "category": "accessories",
+      "image": "/images/10.png",
+      "description": "Extend your laptop's life with CoolBase’s Cooling Pad, equipped with high-speed fans and adjustable angles for comfort and ventilation. Ideal for gamers and professionals needing extra cooling during intensive tasks."
+    }
+  ]
+}
