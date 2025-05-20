@@ -1,14 +1,29 @@
 # shoppeeng
 
-This template should help get you started developing with Vue 3 in Vite.
+Shoppeeng App is a simple e-commerce application that allow user to browse a variety of electronic products, view product details, add items to the cart, and proceed to checkout. The app is designed with a responsive user interface and intuitive shopping flow.
 
-## Recommended IDE Setup
+## 🚀 Features
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Show every 9 products, divided by pages
+- Search the product you need
+- View product details
+- Disabled add button when the stock reaching the limit
 
-## Customize configuration
+## 🛠️ Technologies
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- Vue 3
+- Vite
+- Tailwind CSS
+- Toastification
+- json-server
+
+## 📦 Installation
+
+``` 
+bash
+git clone https://github.com/rysryptr/vue-shoppeeng.git
+cd vue-shoppeeng
+```
 
 ## Project Setup
 
